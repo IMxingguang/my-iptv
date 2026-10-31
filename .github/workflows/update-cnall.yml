@@ -1,0 +1,31 @@
+name: update cn_all source
+
+on:
+  schedule:
+    - cron: '0 23 * * *'    # 北京时间每日 07:00
+  workflow_dispatch:          # 支持手动触发
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+
+      - name: 拉取 best-fan 聚合列表（Actions 节点可直连 GitHub）
+        run: curl -sL --max-time 60 "https://raw.githubusercontent.com/best-fan/iptv-sources/master/cn_all.m3u8" -o cn_all_raw.m3u8
+
+      - name: 测速分拣
+        run: python docu_test.py cn_all_raw.m3u8 cn_all.m3u 12
+
+      - name: 提交结果
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: 'chore: update cn_all.m3u [skip ci]'
+          file_pattern: cn_all.m3u
