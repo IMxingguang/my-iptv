@@ -1,0 +1,349 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="HNMG-HDcctv1" tvg-name="CCTV1高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="央视",CCTV1高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000007000000001243/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-hunanstv4k" tvg-name="湖南卫视4K" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="卫视",湖南卫视4K
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000064000000308827/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-HDhunanstv" tvg-name="湖南卫视高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="卫视",湖南卫视高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000007000000001242/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-HDhnjingshi" tvg-name="湖南经视高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="湖南本地/其他",湖南经视高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000002000000113182/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-HDhndushi" tvg-name="湖南都市高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="湖南本地/其他",湖南都市高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000007000000001249/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-HDhndsj" tvg-name="湖南电视剧高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="湖南本地/其他",湖南电视剧高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000007000000001245/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-HDhndy" tvg-name="湖南电影高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="湖南本地/其他",湖南电影高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000007000000001246/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-HDhnyule" tvg-name="湖南娱乐高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="湖南本地/其他",湖南娱乐高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000007000000001248/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-HDjinyingjs" tvg-name="金鹰纪实高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="湖南本地/其他",金鹰纪实高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000016000000007228/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-HDhnaiwan" tvg-name="湖南爱晚高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="湖南本地/其他",湖南爱晚高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047425/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-HDhnguoji" tvg-name="湖南国际高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="湖南本地/其他",湖南国际高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047426/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-HDjinyingkaton" tvg-name="金鹰卡通高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="湖南本地/其他",金鹰卡通高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000007000000001247/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-HDkuailegw" tvg-name="快乐购高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="湖南本地/其他",快乐购高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047427/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-HDhnjiaoyu" tvg-name="湖南教育高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="湖南本地/其他",湖南教育高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000023000000196697/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-cszhengfa" tvg-name="长沙政法" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="湖南本地/其他",长沙政法
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182540/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-HDyougw" tvg-name="优购物高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="湖南本地/其他",优购物高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32023081509025290234840317360123/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-HDcctv2" tvg-name="CCTV2高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="央视",CCTV2高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047431/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-HDcctv3" tvg-name="CCTV3高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="央视",CCTV3高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047432/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-HDcctv4" tvg-name="CCTV4高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="央视",CCTV4高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047433/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-HDcctv5" tvg-name="CCTV5高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="央视",CCTV5高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047434/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-HDcctv6" tvg-name="CCTV6高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="央视",CCTV6高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047435/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-HDcctv7" tvg-name="CCTV7高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="央视",CCTV7高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047436/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-HDcctv8" tvg-name="CCTV8高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="央视",CCTV8高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047437/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-HDcctv9" tvg-name="CCTV9高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="央视",CCTV9高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047438/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-HDcctv10" tvg-name="CCTV10高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="央视",CCTV10高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047439/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-HDcctv11" tvg-name="CCTV11高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="央视",CCTV11高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000026000000446966/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-HDcctv12" tvg-name="CCTV12高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="央视",CCTV12高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047440/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-HDcctv13" tvg-name="CCTV13高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="央视",CCTV13高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000050000000133801/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-HDcctv14" tvg-name="CCTV14高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="央视",CCTV14高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047441/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-HDcctv15" tvg-name="CCTV15高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="央视",CCTV15高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000026000000446967/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-HDcctv16" tvg-name="CCTV16高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="央视",CCTV16高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000079000000434986/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-HDcctv17" tvg-name="CCTV17高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="央视",CCTV17高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000025000000024152/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-cctv05plus" tvg-name="CCTV5+高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="央视",CCTV5+高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047442/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-CGTN" tvg-name="CGTN" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="央视",CGTN
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182292/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-CGTNdocu" tvg-name="CGTN纪录" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="央视",CGTN纪录
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182305/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-HDjiaoyu" tvg-name="CETV-1高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="湖南本地/其他",CETV-1高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000016000000007220/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-HDjiangsustv" tvg-name="江苏卫视高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="卫视",江苏卫视高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000007000000001244/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-HDzhejiangstv" tvg-name="浙江卫视高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="卫视",浙江卫视高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000007000000001250/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-HDanhuistv" tvg-name="安徽卫视高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="卫视",安徽卫视高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000016000000007224/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-HDbeijingstv" tvg-name="北京卫视高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="卫视",北京卫视高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047443/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-HDtianjingstv" tvg-name="天津卫视高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="卫视",天津卫视高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047444/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-HDdongfangstv" tvg-name="东方卫视高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="卫视",东方卫视高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047445/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-HDjiangxistv" tvg-name="江西卫视高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="卫视",江西卫视高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000064000000308822/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-HDshenzhenstv" tvg-name="深圳卫视高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="卫视",深圳卫视高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047446/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-HDliaoningstv" tvg-name="辽宁卫视高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="卫视",辽宁卫视高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000016000000007225/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-HDdongnanstv" tvg-name="东南卫视高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="卫视",东南卫视高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000010000000040459/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-HDlvyoustv" tvg-name="海南卫视高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="卫视",海南卫视高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000057000000208265/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-HDguangdongstv" tvg-name="广东卫视高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="卫视",广东卫视高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000010000000040391/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-HDhubeistv" tvg-name="湖北卫视高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="卫视",湖北卫视高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047447/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-HDguangxistv" tvg-name="广西卫视高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="卫视",广西卫视高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000090000000215605/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-HDshandongstv" tvg-name="山东卫视高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="卫视",山东卫视高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047448/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-HDsichuanstv" tvg-name="四川卫视高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="卫视",四川卫视高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000064000000308823/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-HDchongqingstv" tvg-name="重庆卫视高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="卫视",重庆卫视高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000064000000308825/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-HDyunnanstv" tvg-name="云南卫视高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="卫视",云南卫视高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000090000000215606/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-HDhenanstv" tvg-name="河南卫视高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="卫视",河南卫视高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000057000000208264/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-HDheilongjiangstv" tvg-name="黑龙江卫视高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="卫视",黑龙江卫视高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047449/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-HDguizhoustv" tvg-name="贵州卫视高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="卫视",贵州卫视高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000010000000040424/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-HDhebeistv" tvg-name="河北卫视高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="卫视",河北卫视高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000016000000007223/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-HDjilinstv" tvg-name="吉林卫视高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="卫视",吉林卫视高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000057000000208223/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-HDshanxi1stv" tvg-name="陕西卫视高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="卫视",陕西卫视高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000090000000215607/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-shanxistv" tvg-name="山西卫视" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="卫视",山西卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182271/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-neimenggustv" tvg-name="内蒙古卫视" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="卫视",内蒙古卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182272/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-HDningxiastv" tvg-name="宁夏卫视高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="卫视",宁夏卫视高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182273/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-HDxizangstv" tvg-name="西藏卫视高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="卫视",西藏卫视高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182274/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-HDxinjiangstv" tvg-name="新疆卫视高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="卫视",新疆卫视高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182275/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-HDgansustv" tvg-name="甘肃卫视高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="卫视",甘肃卫视高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000050000000133802/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-HDkakukaton" tvg-name="卡酷少儿高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="湖南本地/其他",卡酷少儿高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000090000000215608/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-youmankaton" tvg-name="优漫卡通" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="湖南本地/其他",优漫卡通
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182321/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-HDqinghaistv" tvg-name="青海卫视高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="卫视",青海卫视高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000090000000215609/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-shandongjy" tvg-name="山东教育" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="湖南本地/其他",山东教育
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000016000000007227/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-xiamenstv" tvg-name="厦门卫视" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="卫视",厦门卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000022000000381023/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-HDbingtuanstv" tvg-name="兵团卫视高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="卫视",兵团卫视高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000022000000381024/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-jiajiakaton" tvg-name="嘉佳卡通" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="湖南本地/其他",嘉佳卡通
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000022000000381025/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-HDjishikejiao" tvg-name="纪实科教高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="湖南本地/其他",纪实科教高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32024021915401878655075619734783/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-jiaoyu2" tvg-name="CETV-2" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="湖南本地/其他",CETV-2
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000024000000361367/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-HDjiaoyutv4" tvg-name="CETV-4高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="湖南本地/其他",CETV-4高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000024000000361368/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-HDcsxinwenzh" tvg-name="长沙新闻综合高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="湖南本地/其他",长沙新闻综合高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047429/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-HDcszhengfa" tvg-name="长沙政法高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="湖南本地/其他",长沙政法高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047430/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-HDzzxinwenzh" tvg-name="株洲新闻综合高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="湖南本地/其他",株洲新闻综合高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047450/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-HDyzxinwenzh" tvg-name="永州新闻综合高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="湖南本地/其他",永州新闻综合高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000070000000360264/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-HDyzjjingjish" tvg-name="永州经济生活高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="湖南本地/其他",永州经济生活高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000070000000360265/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-HDxtxinwenzh" tvg-name="湘潭新闻综合高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="湖南本地/其他",湘潭新闻综合高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047451/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-HDcdxinwenzh" tvg-name="常德新闻综合高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="湖南本地/其他",常德新闻综合高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000014000000153736/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-HDyyxinwenzh" tvg-name="岳阳新闻综合高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="湖南本地/其他",岳阳新闻综合高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000015000000071030/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-HDyywenlvds" tvg-name="岳阳文旅都市高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="湖南本地/其他",岳阳文旅都市高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000015000000071035/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-HDhhxinwenzh" tvg-name="怀化新闻综合高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="湖南本地/其他",怀化新闻综合高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000016000000287147/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-HDzjjxinwenzh" tvg-name="张家界新闻综合高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="湖南本地/其他",张家界新闻综合高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000024000000270433/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-HDczwenlv" tvg-name="郴州文旅高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="湖南本地/其他",郴州文旅高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32024041109210554359100182250274/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-HDczzh" tvg-name="郴州综合高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="湖南本地/其他",郴州综合高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000031000000253555/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-HDhyxinwenzh" tvg-name="衡阳新闻综合高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="湖南本地/其他",衡阳新闻综合高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000032000000431041/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-HDwenlvzf" tvg-name="衡阳文旅法治高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="湖南本地/其他",衡阳文旅法治高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000032000000431042/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-HDyiyxinwenzh" tvg-name="益阳新闻综合高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="湖南本地/其他",益阳新闻综合高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000033000000121664/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-HDldzh" tvg-name="娄底综合高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="湖南本地/其他",娄底综合高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000033000000401158/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-HDsyxinwenzh" tvg-name="邵阳新闻综合高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="湖南本地/其他",邵阳新闻综合高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000035000000442109/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-HDsywenlvms" tvg-name="邵阳文旅民生高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="湖南本地/其他",邵阳文旅民生高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000035000000442111/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-HDxxixinwenzh" tvg-name="湘西新闻综合高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="湖南本地/其他",湘西新闻综合高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000016000000007222/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-HDxxwenhualy" tvg-name="湘西文化旅游高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="湖南本地/其他",湘西文化旅游高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000016000000007221/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-zgtq" tvg-name="中国天气高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="湖南本地/其他",中国天气高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000004000000182438/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-hunanstv" tvg-name="湖南卫视" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="卫视",湖南卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000010000000040382/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-hnjingshi" tvg-name="湖南经视" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="湖南本地/其他",湖南经视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182567/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-hndushi" tvg-name="湖南都市" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="湖南本地/其他",湖南都市
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182308/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-hndsj" tvg-name="湖南电视剧" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="湖南本地/其他",湖南电视剧
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182309/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-hndy" tvg-name="湖南电影" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="湖南本地/其他",湖南电影
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182320/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-hnyule" tvg-name="湖南娱乐" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="湖南本地/其他",湖南娱乐
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182313/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-jinyingjs" tvg-name="金鹰纪实" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="湖南本地/其他",金鹰纪实
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182315/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-hnaiwan" tvg-name="湖南爱晚" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="湖南本地/其他",湖南爱晚
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182310/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-hnguoji" tvg-name="湖南国际" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="湖南本地/其他",湖南国际
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182307/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-jinyingkaton" tvg-name="金鹰卡通" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="湖南本地/其他",金鹰卡通
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182316/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-kuailegw" tvg-name="快乐购" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="湖南本地/其他",快乐购
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182544/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-hnjy" tvg-name="湖南教育" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="湖南本地/其他",湖南教育
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000003000000104065/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-cctv1" tvg-name="CCTV1" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="央视",CCTV1
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182562/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-cctv2" tvg-name="CCTV2" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="央视",CCTV2
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182301/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-cctv3" tvg-name="CCTV3" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="央视",CCTV3
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047455/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-cctv4" tvg-name="CCTV4" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="央视",CCTV4
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000181629/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-cctv5" tvg-name="CCTV5" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="央视",CCTV5
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047456/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-cctv6" tvg-name="CCTV6" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="央视",CCTV6
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047457/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-cctv7" tvg-name="CCTV7" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="央视",CCTV7
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000181764/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-cctv8" tvg-name="CCTV8" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="央视",CCTV8
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047458/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-cctv9" tvg-name="CCTV9" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="央视",CCTV9
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182545/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-cctv10" tvg-name="CCTV10" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="央视",CCTV10
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182294/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-cctv11" tvg-name="CCTV11" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="央视",CCTV11
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182300/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-cctv12" tvg-name="CCTV-12" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/CCTV12.png" group-title="央视",CCTV-12
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000181939/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-cctv13" tvg-name="CCTV-13" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/CCTV13.png" group-title="央视",CCTV-13
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182324/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-cctv14" tvg-name="CCTV14" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="央视",CCTV14
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000181940/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-cctv15" tvg-name="CCTV15" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="央视",CCTV15
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000181941/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-cctv16" tvg-name="CCTV16" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="央视",CCTV16
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000079000000434987/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-cctv17" tvg-name="CCTV17" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="央视",CCTV17
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000025000000024151/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-HDcctv05plus" tvg-name="CCTV5+" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="央视",CCTV5+
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182561/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-EUcctv4" tvg-name="CCTV4欧洲" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="央视",CCTV4欧洲
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000071000000305577/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-Americacctv4" tvg-name="CCTV4美洲" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="央视",CCTV4美洲
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000071000000305581/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-CGTNEspana" tvg-name="CGTN西班牙语" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="央视",CGTN西班牙语
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000071000000305582/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-CGTNFrench" tvg-name="CGTN法语" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="央视",CGTN法语
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000071000000305586/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-CGTNArab" tvg-name="CGTN阿拉伯语" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="央视",CGTN阿拉伯语
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000071000000305587/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-CGTNRussia" tvg-name="CGTN俄语" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="央视",CGTN俄语
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000071000000305589/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-jiangsustv" tvg-name="江苏卫视" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="卫视",江苏卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182569/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-zhejiangstv" tvg-name="浙江卫视" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="卫视",浙江卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182563/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-anhuistv" tvg-name="安徽卫视" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/AHTV.png" group-title="卫视",安徽卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182280/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-beijingstv" tvg-name="北京卫视" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="卫视",北京卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182564/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-tianjingstv" tvg-name="天津卫视" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="卫视",天津卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182588/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-dongfangstv" tvg-name="东方卫视" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="卫视",东方卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182568/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-jiangxistv" tvg-name="江西卫视" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="卫视",江西卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182287/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-shenzhenstv" tvg-name="深圳卫视" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="卫视",深圳卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182565/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-liaoningstv" tvg-name="辽宁卫视" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="卫视",辽宁卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000176343/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-dongnanstv" tvg-name="东南卫视" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="卫视",东南卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182255/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-lvyoustv" tvg-name="海南卫视" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="卫视",海南卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000181765/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-guangdongstv" tvg-name="广东卫视" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="卫视",广东卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182284/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-hubeistv" tvg-name="湖北卫视" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/HUBEI.png" group-title="卫视",湖北卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182285/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-guangxistv" tvg-name="广西卫视" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="卫视",广西卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182256/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-shandongstv" tvg-name="山东卫视" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="卫视",山东卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182570/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-sichuanstv" tvg-name="四川卫视" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="卫视",四川卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182257/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-chongqingstv" tvg-name="重庆卫视" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/CCQTV.png" group-title="卫视",重庆卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182258/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-yunnanstv" tvg-name="云南卫视" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="卫视",云南卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182259/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-henanstv" tvg-name="河南卫视" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="卫视",河南卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182260/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-heilongjiangstv" tvg-name="黑龙江卫视" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="卫视",黑龙江卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182571/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-guizhoustv" tvg-name="贵州卫视" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="卫视",贵州卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182262/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-hebeistv" tvg-name="河北卫视" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="卫视",河北卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182263/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-jilinstv" tvg-name="吉林卫视" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="卫视",吉林卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182264/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-shanxi1stv" tvg-name="陕西卫视" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="卫视",陕西卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182270/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-gansustv" tvg-name="甘肃卫视" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="卫视",甘肃卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182276/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-kakukaton" tvg-name="卡酷少儿" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="湖南本地/其他",卡酷少儿
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182277/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-qinghaistv" tvg-name="青海卫视" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="卫视",青海卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182317/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-sckambatv" tvg-name="四川康巴卫视" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="卫视",四川康巴卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000134000000367619/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-yanbianstv" tvg-name="延边卫视" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="卫视",延边卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32023031709181220216556910725802/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-HDsanshastv" tvg-name="三沙卫视高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="卫视",三沙卫视高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000031000000068476/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-cctv164k" tvg-name="CCTV164K" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="央视",CCTV164K
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000085000000178450/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-cctv4k" tvg-name="CCTV4K" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="央视",CCTV4K
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32023092211020848462000290559536/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-beijingstv4k" tvg-name="北京卫视4K" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="卫视",北京卫视4K
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32025041016455754529971118212688/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-jiangsustv4k" tvg-name="江苏卫视4K" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="卫视",江苏卫视4K
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32025091110262178928213010539289/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-zhejiangstv4k" tvg-name="浙江卫视4K" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="卫视",浙江卫视4K
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32025091110262252695540491433081/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-dongfangstv4k" tvg-name="东方卫视4K" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="卫视",东方卫视4K
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32025091110262078079170451541005/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-shenzhenstv4k" tvg-name="深圳卫视4K" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="卫视",深圳卫视4K
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32025061216044934209640975946187/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-guangdongstv4k" tvg-name="广东卫视4K" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="卫视",广东卫视4K
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32025061216045554851550640574941/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-shandongstv4k" tvg-name="山东卫视4K" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="卫视",山东卫视4K
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32025091110262122088149630612658/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-sichuanstv4k" tvg-name="四川卫视4K" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="卫视",四川卫视4K
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32025091110262063636605981698869/main.m3u8
