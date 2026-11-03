@@ -58,30 +58,24 @@ https://mumbai-edge.smartplaytv.in/BBCNews/index.m3u8
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 #EXTINF:-1 tvg-name="VoA TV China (1080p)" tvg-logo="https://i.imgur.com/XCTZkoq.png" group-title="📡港澳频道",VoA TV China (1080p)
 https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
-#EXTINF:-1 tvg-name="Discovering China (1080p)" tvg-logo="https://i.imgur.com/wr2bLaA.png" group-title="纪录片",Discovering China (1080p)
-https://fastlive.cctvplus.com/out/v1/8442c3bfd4c64a3984389328f6087879/index.m3u8
-#EXTINF:-1 tvg-name="CGTN纪录" group-title="纪录片",CGTN纪录
-https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
-#EXTINF:-1 tvg-name="CGTN纪录" group-title="纪录片",CGTN纪录
-https://0472.org/hls/cgtnd.m3u8
-#EXTINF:-1 tvg-name="BRTV纪实科教" group-title="纪录片",BRTV纪实科教
+#EXTINF:-1 tvg-name="BRTV纪实科教" group-title="🌍纪录片",BRTV纪实科教
 http://120.76.248.139/live/bfgd/4200000113.m3u8
-#EXTINF:-1 tvg-name="新纪实" group-title="纪录片",新纪实
-#EXTINF:-1 tvg-name="Discovering China (1080p)" tvg-logo="https://i.imgur.com/wr2bLaA.png" group-title="🌍纪录片（英文）",Discovering China (1080p)
+#EXTINF:-1 tvg-name="新纪实" group-title="🌍纪录片",新纪实
+#EXTINF:-1 tvg-name="Discovering China (1080p)" tvg-logo="https://i.imgur.com/wr2bLaA.png" group-title="🌍纪录片",Discovering China (1080p)
 https://fastlive.cctvplus.com/out/v1/8442c3bfd4c64a3984389328f6087879/index.m3u8
-#EXTINF:-1 tvg-name="CGTN纪录" group-title="🌍纪录片（英文）",CGTN纪录
+#EXTINF:-1 tvg-name="CGTN纪录" group-title="🌍纪录片",CGTN纪录
 https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
-#EXTINF:-1 tvg-name="BBC Earth US (1080p)" tvg-logo="https://i.imgur.com/nGSsUd4.png" group-title="🌍纪录片（英文",BBC Earth US (1080p)
+#EXTINF:-1 tvg-name="BBC Earth US (1080p)" tvg-logo="https://i.imgur.com/nGSsUd4.png" group-title="🌍纪录片",BBC Earth US (1080p)
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
-#EXTINF:-1 tvg-name="Love Nature HD (1080p)" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png" group-title="🌍纪录片（英文）",Love Nature HD (1080p)
+#EXTINF:-1 tvg-name="Love Nature HD (1080p)" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png" group-title="🌍纪录片",Love Nature HD (1080p)
 https://mumbai-edge.smartplaytv.in/LoveNature/index.m3u8
-#EXTINF:-1 tvg-name="Animal Planet" group-title="🌍纪录片（英文）",Animal Planet
+#EXTINF:-1 tvg-name="Animal Planet" group-title="🌍纪录片",Animal Planet
 http://23.239.31.26:8989/animalplanet/index.m3u8
-#EXTINF:-1 tvg-name="History Asia" group-title="🌍纪录片（英文）",History Asia
+#EXTINF:-1 tvg-name="History Asia" group-title="🌍纪录片",History Asia
 https://freem3u.xyz/api/live/play.m3u8?vid=9856
-#EXTINF:-1 tvg-name="National Geographic" group-title="🌍纪录片（英文）",National Geographic
+#EXTINF:-1 tvg-name="National Geographic" group-title="🌍纪录片",National Geographic
 http://198.58.104.90:8989/natgeo/index.m3u8
-#EXTINF:-1 tvg-name="Nat Geo Wild" group-title="🌍纪录片（英文）",Nat Geo Wild
+#EXTINF:-1 tvg-name="Nat Geo Wild" group-title="🌍纪录片",Nat Geo Wild
 http://198.58.104.90:8989/natgeowild/index.m3u8
-#EXTINF:-1 tvg-name="INWILD" group-title="🌍纪录片（英文）",INWILD
+#EXTINF:-1 tvg-name="INWILD" group-title="🌍纪录片",INWILD
 https://amg00861-terninternation-inwild-samsunguk-w5wic.amagi.tv/playlist/amg00861-terninternation-inwild-samsunguk/playlist.m3u8
