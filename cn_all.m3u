@@ -40,36 +40,18 @@ http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182292/main.m3u8
 #EXTINF:-1 tvg-id="HNMG-CGTNdocu" tvg-name="CGTN纪录" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="央视",CGTN纪录
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182305/main.m3u8
-#EXTINF:-1 group-title="📡港澳频道", 翡翠台 [?|2.5MB/s]
-http://211.97.63.3:3443/hls/541/index.m3u8
-#EXTINF:-1 group-title="📡港澳频道", RTHKTV31 [1080p|2.5MB/s]
-https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 #EXTINF:-1 group-title="📡港澳频道", Now TVRock [1080p|2.5MB/s]
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="📡港澳频道", 香港卫视 [?|1.7MB/s]
 http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1 group-title="📡港澳频道", 无线新闻台 [?|1.7MB/s]
-http://cc.123.rr.kg/163189/wxxwt
 #EXTINF:-1 group-title="📡港澳频道", 翡翠台 [?|1.5MB/s]
 http://218.13.139.26:9901/tsfile/live/1079_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="📡港澳频道", TVB Plus [1080p|625KB/s]
 https://10.fast.hidns.vip/163189/tvbp/
 #EXTINF:-1 group-title="📡港澳频道", 明珠台 [1080p|623KB/s]
 https://10.fast.hidns.vip/163189/mzt/
-#EXTINF:-1 group-title="📡港澳频道", 明珠台 [1080p|621KB/s]
-https://cdn3.indevs.in/stream/tvb/mzt/
 #EXTINF:-1 group-title="📡港澳频道", TVB Plus [1080p|607KB/s]
 https://cdn3.indevs.in/stream/tvb/tvbp/
-#EXTINF:-1 group-title="📡港澳频道", TVB星河 [720p|595KB/s]
-https://10.fast.hidns.vip/163189/xinghe/
-#EXTINF:-1 group-title="📡港澳频道", Now TV [?|369KB/s]
-https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_720p.m3u8
-#EXTINF:-1 group-title="📡港澳频道", 凤凰香港 [1080p|305KB/s]
-https://epg.pw/stream/5f16dc7fc8aaaed3205516c63e4a8c24bca9dbba1181684244729cf574505b0e.m3u8
-#EXTINF:-1 group-title="📡港澳频道", 无线新闻台 [?|32KB/s]
-http://cdn6.123.rr.kg/163189/wxxw
-#EXTINF:-1 group-title="📡港澳频道", TVB星河 [?|32KB/s]
-http://cdn6.123.rr.kg/163189/tvbxh
 #EXTINF:-1 tvg-name="RTHK TV 31 (1080p) [Geo-blocked]" tvg-logo="https://i.imgur.com/kf818kM.png" group-title="📡港澳频道",RTHK TV 31 (1080p) [Geo-blocked]
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 #EXTINF:-1 tvg-name="VoA TV China (1080p)" tvg-logo="https://i.imgur.com/XCTZkoq.png" group-title="📡港澳频道",VoA TV China (1080p)
