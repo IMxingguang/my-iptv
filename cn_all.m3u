@@ -1,11 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="香港卫视" group-title="📡港澳频道",香港卫视
-https://epg.pw/stream/ad0b854c8dbe94e0e45c618aa5a6da822e8437f77ae84fdf6718423015495aaa.m3u8
-#EXTINF:-1 tvg-name="有線新聞台" group-title="📡港澳频道",有線新聞台
-http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
-#EXTINF:-1 tvg-name="香港国际财经台" group-title="📡港澳频道",香港国际财经台
-https://epg.pw/stream/d7d42738d28d82242956de378400f29c137bb4844173f1517b19bad0dd5c95d5.m3u8
 #EXTINF:-1 tvg-name="RTHK TV 31 (1080p) [Geo-blocked]" tvg-logo="https://i.imgur.com/kf818kM.png" group-title="📡港澳频道",RTHK TV 31 (1080p) [Geo-blocked]
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 #EXTINF:-1 tvg-name="VoA TV China (1080p)" tvg-logo="https://i.imgur.com/XCTZkoq.png" group-title="📡港澳频道",VoA TV China (1080p)
@@ -19,8 +13,10 @@ https://0472.org/hls/cgtnd.m3u8
 #EXTINF:-1 tvg-name="BRTV纪实科教" group-title="纪录片",BRTV纪实科教
 http://120.76.248.139/live/bfgd/4200000113.m3u8
 #EXTINF:-1 tvg-name="新纪实" group-title="纪录片",新纪实
-http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
-#EXTINF:-1 tvg-name="之江纪录" group-title="纪录片",之江纪录
+#EXTINF:-1 tvg-name="Discovering China (1080p)" tvg-logo="https://i.imgur.com/wr2bLaA.png" group-title="🌍纪录片（英文）",Discovering China (1080p)
+https://fastlive.cctvplus.com/out/v1/8442c3bfd4c64a3984389328f6087879/index.m3u8
+#EXTINF:-1 tvg-name="CGTN纪录" group-title="🌍纪录片（英文）",CGTN纪录
+https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 #EXTINF:-1 tvg-name="Love Nature HD (1080p)" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png" group-title="🌍纪录片（英文）",Love Nature HD (1080p)
 https://mumbai-edge.smartplaytv.in/LoveNature/index.m3u8
@@ -34,45 +30,3 @@ http://198.58.104.90:8989/natgeo/index.m3u8
 http://198.58.104.90:8989/natgeowild/index.m3u8
 #EXTINF:-1 tvg-name="INWILD" group-title="🌍纪录片（英文）",INWILD
 https://amg00861-terninternation-inwild-samsunguk-w5wic.amagi.tv/playlist/amg00861-terninternation-inwild-samsunguk/playlist.m3u8
-#EXTINF:-1 tvg-name="Animal Planet (CZ)" group-title="🌍纪录片（其他语言版本）",Animal Planet (CZ)
-http://88.212.15.50/live/test_animal_planet_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-name="Animal Planet (HU)" group-title="🌍纪录片（其他语言版本）",Animal Planet (HU)
-http://88.212.7.14/live/animal_hun/index.m3u8
-#EXTINF:-1 tvg-name="Asharq Discovery (AR)" group-title="🌍纪录片（其他语言版本）",Asharq Discovery (AR)
-https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
-#EXTINF:-1 tvg-name="Discovery (CZ)" group-title="🌍纪录片（其他语言版本）",Discovery (CZ)
-http://88.212.15.50/live/test_discovery_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-name="Discovery (HU)" group-title="🌍纪录片（其他语言版本）",Discovery (HU)
-http://88.212.7.14/live/discovery_hungary/index.m3u8
-#EXTINF:-1 tvg-name="Discovery Theater (LatAm)" group-title="🌍纪录片（其他语言版本）",Discovery Theater (LatAm)
-http://181.224.200.5:2277/play/a0bj/index.m3u8
-#EXTINF:-1 tvg-name="Discovery Turbo (LatAm)" group-title="🌍纪录片（其他语言版本）",Discovery Turbo (LatAm)
-http://38.134.250.110:8000/play/a01y/index.m3u8
-#EXTINF:-1 tvg-name="History (CZ)" group-title="🌍纪录片（其他语言版本）",History (CZ)
-http://88.212.15.50/live/test_history/playlist.m3u8
-#EXTINF:-1 tvg-name="History (HU)" group-title="🌍纪录片（其他语言版本）",History (HU)
-http://88.212.7.14/live/history_hun/index.m3u8
-#EXTINF:-1 tvg-name="History (LatAm)" group-title="🌍纪录片（其他语言版本）",History (LatAm)
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/37.m3u8
-#EXTINF:-1 tvg-name="ID (CZ)" group-title="🌍纪录片（其他语言版本）",ID (CZ)
-http://88.212.15.50/live/test_id_hevc_atktv/playlist.m3u8
-#EXTINF:-1 tvg-name="ID (HU)" group-title="🌍纪录片（其他语言版本）",ID (HU)
-http://88.212.7.14/live/id_hun/index.m3u8
-#EXTINF:-1 tvg-name="National Geographic (CZ)" group-title="🌍纪录片（其他语言版本）",National Geographic (CZ)
-http://88.212.15.50/live/test_ngc/playlist.m3u8
-#EXTINF:-1 tvg-name="National Geographic (HU)" group-title="🌍纪录片（其他语言版本）",National Geographic (HU)
-http://88.212.7.14/live/ngc_hun/index.m3u8
-#EXTINF:-1 tvg-name="Nat Geo Wild (CZ)" group-title="🌍纪录片（其他语言版本）",Nat Geo Wild (CZ)
-http://88.212.15.50/live/test_ngw/playlist.m3u8
-#EXTINF:-1 tvg-name="Nat Geo Wild (HU)" group-title="🌍纪录片（其他语言版本）",Nat Geo Wild (HU)
-http://88.212.7.14/live/ngw_hun/index.m3u8
-#EXTINF:-1 tvg-name="TLC (CZ)" group-title="🌍纪录片（其他语言版本）",TLC (CZ)
-http://88.212.15.50/live/test_tlc_1200_atk/playlist.m3u8
-#EXTINF:-1 tvg-name="TLC (HU)" group-title="🌍纪录片（其他语言版本）",TLC (HU)
-http://88.212.7.14/live/tlc_hungary/index.m3u8
-#EXTINF:-1 tvg-name="TLC (LatAm)" group-title="🌍纪录片（其他语言版本）",TLC (LatAm)
-http://38.134.250.110:8000/play/a00n/index.m3u8
-#EXTINF:-1 tvg-name="Viasat History (CZ)" group-title="🌍纪录片（其他语言版本）",Viasat History (CZ)
-http://88.212.15.50/live/test_viasat_history_atk_tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Viasat History (UA)" group-title="🌍纪录片（其他语言版本）",Viasat History (UA)
-http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoODYvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTM0ODYmc3Q9MVprUlhpb2xfODRPc2RMR2R0VDNzQQ%3D%3D&master=78
