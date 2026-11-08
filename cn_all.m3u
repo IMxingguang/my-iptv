@@ -40,23 +40,25 @@ http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182292/main.m3u8
 #EXTINF:-1 tvg-id="HNMG-CGTNdocu" tvg-name="CGTN纪录" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="央视",CGTN纪录
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182305/main.m3u8
-#EXTINF:-1 group-title="📡港澳频道", Now TVRock [1080p|2.5MB/s]
+#EXTINF:-1 tvg-id="HNMG-dongfangstv4k" tvg-name="东方卫视4K" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="📡地方频道",东方卫视4K
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32025091110262078079170451541005/main.m3u8
+#EXTINF:-1 group-title="📡地方频道", Now TVRock [1080p|2.5MB/s]
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="📡港澳频道", 香港卫视 [?|1.7MB/s]
+#EXTINF:-1 group-title="📡地方频道", 香港卫视 [?|1.7MB/s]
 http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1 group-title="📡港澳频道", 翡翠台 [?|1.5MB/s]
+#EXTINF:-1 group-title="📡地方频道", 翡翠台 [?|1.5MB/s]
 http://218.13.139.26:9901/tsfile/live/1079_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="📡港澳频道", TVB Plus [1080p|625KB/s]
+#EXTINF:-1 group-title="📡地方频道", TVB Plus [1080p|625KB/s]
 https://10.fast.hidns.vip/163189/tvbp/
-#EXTINF:-1 group-title="📡港澳频道", 明珠台 [1080p|623KB/s]
+#EXTINF:-1 group-title="📡地方频道", 明珠台 [1080p|623KB/s]
 https://10.fast.hidns.vip/163189/mzt/
-#EXTINF:-1 tvg-name="BBC News North America (1080p)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png" group-title="📡港澳频道",BBC News North America (1080p)
+#EXTINF:-1 tvg-name="BBC News North America (1080p)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png" group-title="📡地方频道",BBC News North America (1080p)
 http://23.237.104.106:8080/USA_BBC_NEWS/index.m3u8
-#EXTINF:-1 tvg-name="BBC News South Asia (720p)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png" group-title="📡港澳频道",BBC News South Asia (720p)
+#EXTINF:-1 tvg-name="BBC News South Asia (720p)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png" group-title="📡地方频道",BBC News South Asia (720p)
 https://mumbai-edge.smartplaytv.in/BBCNews/index.m3u8
-#EXTINF:-1 tvg-name="RTHK TV 31 (1080p) [Geo-blocked]" tvg-logo="https://i.imgur.com/kf818kM.png" group-title="📡港澳频道",RTHK TV 31 (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-name="RTHK TV 31 (1080p) [Geo-blocked]" tvg-logo="https://i.imgur.com/kf818kM.png" group-title="📡地方频道",RTHK TV 31 (1080p) [Geo-blocked]
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
-#EXTINF:-1 tvg-name="VoA TV China (1080p)" tvg-logo="https://i.imgur.com/XCTZkoq.png" group-title="📡港澳频道",VoA TV China (1080p)
+#EXTINF:-1 tvg-name="VoA TV China (1080p)" tvg-logo="https://i.imgur.com/XCTZkoq.png" group-title="📡地方频道",VoA TV China (1080p)
 https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
 #EXTINF:-1 tvg-name="BRTV纪实科教" group-title="🌍纪录片",BRTV纪实科教
 http://120.76.248.139/live/bfgd/4200000113.m3u8
