@@ -71,14 +71,8 @@ https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
 #EXTINF:-1 tvg-name="Love Nature HD (1080p)" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png" group-title="🌍纪录片",Love Nature HD (1080p)
 https://mumbai-edge.smartplaytv.in/LoveNature/index.m3u8
-#EXTINF:-1 tvg-name="Animal Planet" group-title="🌍纪录片",Animal Planet
-http://23.239.31.26:8989/animalplanet/index.m3u8
 #EXTINF:-1 tvg-name="History Asia" group-title="🌍纪录片",History Asia
 https://freem3u.xyz/api/live/play.m3u8?vid=9856
-#EXTINF:-1 tvg-name="National Geographic" group-title="🌍纪录片",National Geographic
-http://198.58.104.90:8989/natgeo/index.m3u8
-#EXTINF:-1 tvg-name="Nat Geo Wild" group-title="🌍纪录片",Nat Geo Wild
-http://198.58.104.90:8989/natgeowild/index.m3u8
 #EXTINF:-1 tvg-name="INWILD" group-title="🌍纪录片",INWILD
 https://amg00861-terninternation-inwild-samsunguk-w5wic.amagi.tv/playlist/amg00861-terninternation-inwild-samsunguk/playlist.m3u8
 #EXTINF:-1 tvg-id="BoRB-AT" tvg-name="BoRB-AT" group-title="🎾体育频道",BoRB-AT (HLS Live)
