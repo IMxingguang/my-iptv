@@ -41,6 +41,10 @@ http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182305/main.m3u8
 #EXTINF:-1 tvg-id="HNMG-dongfangstv4k" tvg-name="东方卫视4K" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="地方频道",东方卫视4K
 http://tvgslb.hn.chinamobile.com:8089/180000001001/32025091110262078079170451541005/main.m3u8
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/凤凰资讯.png" group-title="地方频道",凤凰资讯
+http://173.208.234.146/live/fhzx.m3u8
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/凤凰香港.png" group-title="地方频道",凤凰香港
+http://173.208.234.146/live/fhxg.m3u8
 #EXTINF:-1 tvg-name="CNA (1080p) [Geo-blocked]" group-title="地方频道",CNA (1080p) [Geo-blocked]
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 tvg-name="CNA International (1080p)" group-title="地方频道",CNA International (1080p)
@@ -49,10 +53,6 @@ https://freem3u.xyz/api/live/play.m3u8?vid=112
 https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="CNBC Asia HD (1080p)" group-title="地方频道",CNBC Asia HD (1080p)
 https://freem3u.xyz/api/live/play.m3u8?vid=9855
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/凤凰资讯.png" group-title="地方频道",凤凰资讯
-http://173.208.234.146/live/fhzx.m3u8
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/凤凰香港.png" group-title="地方频道",凤凰香港
-http://173.208.234.146/live/fhxg.m3u8
 #EXTINF:-1 group-title="地方频道", 翡翠台 [?|1.5MB/s]
 http://218.13.139.26:9901/tsfile/live/1079_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="地方频道", TVB Plus [1080p|625KB/s]
