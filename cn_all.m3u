@@ -101,7 +101,7 @@ https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
 http://168.196.127.137:6001/play/a097/index.m3u8
 #EXTINF:-1 tvg-name="Discovery Family (720p)" group-title="🌍纪录片",Discovery Family (720p)
 https://tvsen5.aynaott.com/discoveryfamily/index.m3u8
-#EXTINF:-1 tvg-name="Fashion Finds (720p)" group-title="🌍纪录片",Fashion Finds (720p)
+#EXTINF:-1 tvg-name="Fashion Finds (720p)" group-title="📡地方频道",Fashion Finds (720p)
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc5us/master.m3u8
 #EXTINF:-1 tvg-name="Tennis Channel (1080p)" group-title="🎾体育频道",Tennis Channel (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
