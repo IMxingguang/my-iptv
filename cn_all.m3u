@@ -41,6 +41,16 @@ http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182305/main.m3u8
 #EXTINF:-1 tvg-id="HNMG-dongfangstv4k" tvg-name="东方卫视4K" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="📡地方频道",东方卫视4K
 http://tvgslb.hn.chinamobile.com:8089/180000001001/32025091110262078079170451541005/main.m3u8
+#EXTINF:-1 tvg-name="CNA (1080p) [Geo-blocked]" group-title="📡地方频道",CNA (1080p) [Geo-blocked]
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:-1 tvg-name="CNA International (1080p)" group-title="📡地方频道",CNA International (1080p)
+https://freem3u.xyz/api/live/play.m3u8?vid=112
+#EXTINF:-1 tvg-name="CNA Originals (1080p)" group-title="📡地方频道",CNA Originals (1080p)
+https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="CNA Originals (1080p)" group-title="📡地方频道",CNA Originals (1080p)
+https://amg01082-cna-amg01082c1-vidaa-gb-7580.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="CNBC Asia HD (1080p)" group-title="📡地方频道",CNBC Asia HD (1080p)
+https://freem3u.xyz/api/live/play.m3u8?vid=9855
 #EXTINF:-1 group-title="📡地方频道", 翡翠台 [?|1.5MB/s]
 http://218.13.139.26:9901/tsfile/live/1079_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="📡地方频道", TVB Plus [1080p|625KB/s]
@@ -103,12 +113,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlint
 https://skynewsau-live-premium.akamaized.net/hls/live/2105306/skynewsextra/live_540p.m3u8
 #EXTINF:-1 tvg-name="Cartoon Network Asia (720p)" group-title="😃少儿节目",Cartoon Network Asia (720p)
 https://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLSv3-FTA/Cartoon_Network.m3u8
-#EXTINF:-1 tvg-name="Cartoon Network Asia" group-title="😃少儿节目",Cartoon Network Asia
-http://202.150.165.66:8088/play/200-CartoonNetwork/index.m3u8
 #EXTINF:-1 tvg-name="Cartoonito Asia (720p)" group-title="😃少儿节目",Cartoonito Asia (720p)
 http://cdn4.skygo.mn/live/disk1/Boomerang/HLSv3-FTA/Boomerang.m3u8
-#EXTINF:-1 tvg-name="Cartoonito Asia" group-title="😃少儿节目",Cartoonito Asia
-http://202.150.165.66:8088/play/201-Cartoonito/index.m3u8
 #EXTINF:-1 tvg-name="ZooMoo (1080p)" group-title="😃少儿节目",ZooMoo (1080p)
 http://168.196.127.137:6001/play/a03k/index.m3u8
 #EXTINF:-1 tvg-name="PBS Kids (720p)" group-title="😃少儿节目",PBS Kids (720p)
@@ -117,15 +123,3 @@ https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
 http://181.78.121.15:8000/play/a00a/index.m3u8
 #EXTINF:-1 tvg-name="FMH Kids (720p)" group-title="😃少儿节目",FMH Kids (720p)
 http://38.87.224.19:2220/play/a03u/index.m3u8
-#EXTINF:-1 tvg-name="CNA (1080p) [Geo-blocked]" group-title="📡地方频道",CNA (1080p) [Geo-blocked]
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-#EXTINF:-1 tvg-name="CNA International (1080p)" group-title="📡地方频道",CNA International (1080p)
-https://freem3u.xyz/api/live/play.m3u8?vid=112
-#EXTINF:-1 tvg-name="CNA International (576p)" group-title="📡地方频道",CNA International (576p)
-https://mumt05.tangotv.in/87NeALx2CNA/index.m3u8
-#EXTINF:-1 tvg-name="CNA Originals (1080p)" group-title="📡地方频道",CNA Originals (1080p)
-https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="CNA Originals (1080p)" group-title="📡地方频道",CNA Originals (1080p)
-https://amg01082-cna-amg01082c1-vidaa-gb-7580.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="CNBC Asia HD (1080p)" group-title="📡地方频道",CNBC Asia HD (1080p)
-https://freem3u.xyz/api/live/play.m3u8?vid=9855
