@@ -91,8 +91,6 @@ http://23.237.104.106:8080/USA_NBA/index.m3u8
 https://d11k1mnrgfposz.cloudfront.net/playlist.m3u8
 #EXTINF:-1 group-title="📡地方频道", 明珠台 [1080p|623KB/s]
 https://10.fast.hidns.vip/163189/mzt/
-#EXTINF:-1 tvg-name="Bloomberg TV (1080p)" group-title="📡地方频道",Bloomberg TV (1080p)
-http://23.237.104.106:8080/USA_BLOOMBERG/index.m3u8
 #EXTINF:-1 tvg-name="CNN International (1080p)" group-title="📡地方频道",CNN International (1080p)
 https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8
 #EXTINF:-1 tvg-name="MTV (1080p)" group-title="📡地方频道",MTV (1080p)
