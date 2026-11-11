@@ -89,12 +89,6 @@ https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://tvsen6.aynaott.com/foxnews/index.m3u8
 #EXTINF:-1 tvg-name="MTV (1080p)" group-title="📡地方频道",MTV (1080p)
 http://23.237.104.106:8080/USA_MTV/index.m3u8
-#EXTINF:-1 tvg-name="PBS Kids (720p)" group-title="📡地方频道",PBS Kids (720p)
-https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
-#EXTINF:-1 tvg-name="Kids Street (1080p)" group-title="📡地方频道",Kids Street (1080p)
-http://181.78.121.15:8000/play/a00a/index.m3u8
-#EXTINF:-1 tvg-name="FMH Kids (720p)" group-title="📡地方频道",FMH Kids (720p)
-http://38.87.224.19:2220/play/a03u/index.m3u8
 #EXTINF:-1 tvg-name="Classic Arts Showcase (720p)" group-title="🌍纪录片",Classic Arts Showcase (720p)
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
 #EXTINF:-1 tvg-name="Discovery World (1080p)" group-title="🌍纪录片",Discovery World (1080p)
@@ -107,16 +101,22 @@ https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc5us/master.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
 #EXTINF:-1 tvg-name="News24 World" group-title="📡地方频道",News24 World
 https://skynewsau-live-premium.akamaized.net/hls/live/2105306/skynewsextra/live_540p.m3u8
-#EXTINF:-1 tvg-name="Cartoon Network Asia (720p)" group-title="😃 少儿节目",Cartoon Network Asia (720p)
+#EXTINF:-1 tvg-name="Cartoon Network Asia (720p)" group-title="😃少儿节目",Cartoon Network Asia (720p)
 https://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLSv3-FTA/Cartoon_Network.m3u8
-#EXTINF:-1 tvg-name="Cartoon Network Asia" group-title="😃 少儿节目",Cartoon Network Asia
+#EXTINF:-1 tvg-name="Cartoon Network Asia" group-title="😃少儿节目",Cartoon Network Asia
 http://202.150.165.66:8088/play/200-CartoonNetwork/index.m3u8
-#EXTINF:-1 tvg-name="Cartoonito Asia (720p)" group-title="😃 少儿节目",Cartoonito Asia (720p)
+#EXTINF:-1 tvg-name="Cartoonito Asia (720p)" group-title="😃少儿节目",Cartoonito Asia (720p)
 http://cdn4.skygo.mn/live/disk1/Boomerang/HLSv3-FTA/Boomerang.m3u8
-#EXTINF:-1 tvg-name="Cartoonito Asia" group-title="😃 少儿节目",Cartoonito Asia
+#EXTINF:-1 tvg-name="Cartoonito Asia" group-title="😃少儿节目",Cartoonito Asia
 http://202.150.165.66:8088/play/201-Cartoonito/index.m3u8
-#EXTINF:-1 tvg-name="ZooMoo (1080p)" group-title="😃 少儿节目",ZooMoo (1080p)
+#EXTINF:-1 tvg-name="ZooMoo (1080p)" group-title="😃少儿节目",ZooMoo (1080p)
 http://168.196.127.137:6001/play/a03k/index.m3u8
+#EXTINF:-1 tvg-name="PBS Kids (720p)" group-title="😃少儿节目",PBS Kids (720p)
+https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
+#EXTINF:-1 tvg-name="Kids Street (1080p)" group-title="😃少儿节目",Kids Street (1080p)
+http://181.78.121.15:8000/play/a00a/index.m3u8
+#EXTINF:-1 tvg-name="FMH Kids (720p)" group-title="😃少儿节目",FMH Kids (720p)
+http://38.87.224.19:2220/play/a03u/index.m3u8
 #EXTINF:-1 tvg-name="CNA (1080p) [Geo-blocked]" group-title="📡地方频道",CNA (1080p) [Geo-blocked]
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 tvg-name="CNA International (1080p)" group-title="📡地方频道",CNA International (1080p)
