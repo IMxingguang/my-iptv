@@ -79,8 +79,6 @@ https://freem3u.xyz/api/live/play.m3u8?vid=9856
 https://amg00861-terninternation-inwild-samsunguk-w5wic.amagi.tv/playlist/amg00861-terninternation-inwild-samsunguk/playlist.m3u8
 #EXTINF:-1 tvg-id="BoRB-AT" tvg-name="BoRB-AT" group-title="🎾体育频道",BoRB-AT (HLS Live)
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-#EXTINF:-1 tvg-id="30AGolfKingdom.us@SD" tvg-logo="https://i.imgur.com/Lv53nh4.png" group-title="🎾体育频道",30A Golf Kingdom (720p)
-https://30a-tv.com/feeds/vidaa/golf.m3u8
 #EXTINF:-1 tvg-id="ESPN.us@HD" tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" group-title="🎾体育频道",ESPN (United States) HD (720p)
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
 #EXTINF:-1 tvg-id="ESPNU.us@HD" tvg-logo="https://i.imgur.com/HiBrysh.png" group-title="🎾体育频道",ESPNU HD (720p)
@@ -111,8 +109,6 @@ https://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLSv3-FTA/Cartoon_Network.m3u8
 http://cdn4.skygo.mn/live/disk1/Boomerang/HLSv3-FTA/Boomerang.m3u8
 #EXTINF:-1 tvg-name="ZooMoo (1080p)" group-title="😃少儿节目",ZooMoo (1080p)
 http://168.196.127.137:6001/play/a03k/index.m3u8
-#EXTINF:-1 tvg-name="PBS Kids (720p)" group-title="😃少儿节目",PBS Kids (720p)
-https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
 #EXTINF:-1 tvg-name="Kids Street (1080p)" group-title="😃少儿节目",Kids Street (1080p)
 http://181.78.121.15:8000/play/a00a/index.m3u8
 #EXTINF:-1 tvg-name="FMH Kids (720p)" group-title="😃少儿节目",FMH Kids (720p)
