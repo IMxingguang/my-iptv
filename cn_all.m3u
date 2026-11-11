@@ -47,8 +47,6 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 https://freem3u.xyz/api/live/play.m3u8?vid=112
 #EXTINF:-1 tvg-name="CNA Originals (1080p)" group-title="地方频道",CNA Originals (1080p)
 https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="CNA Originals (1080p)" group-title="地方频道",CNA Originals (1080p)
-https://amg01082-cna-amg01082c1-vidaa-gb-7580.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="CNBC Asia HD (1080p)" group-title="地方频道",CNBC Asia HD (1080p)
 https://freem3u.xyz/api/live/play.m3u8?vid=9855
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/凤凰资讯.png" group-title="地方频道",凤凰资讯
