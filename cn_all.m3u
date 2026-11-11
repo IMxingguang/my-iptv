@@ -107,3 +107,25 @@ https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc5us/master.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
 #EXTINF:-1 tvg-name="News24 World" group-title="📡地方频道",News24 World
 https://skynewsau-live-premium.akamaized.net/hls/live/2105306/skynewsextra/live_540p.m3u8
+#EXTINF:-1 tvg-name="Cartoon Network Asia (720p)" group-title="😃 少儿节目",Cartoon Network Asia (720p)
+https://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLSv3-FTA/Cartoon_Network.m3u8
+#EXTINF:-1 tvg-name="Cartoon Network Asia" group-title="😃 少儿节目",Cartoon Network Asia
+http://202.150.165.66:8088/play/200-CartoonNetwork/index.m3u8
+#EXTINF:-1 tvg-name="Cartoonito Asia (720p)" group-title="😃 少儿节目",Cartoonito Asia (720p)
+http://cdn4.skygo.mn/live/disk1/Boomerang/HLSv3-FTA/Boomerang.m3u8
+#EXTINF:-1 tvg-name="Cartoonito Asia" group-title="😃 少儿节目",Cartoonito Asia
+http://202.150.165.66:8088/play/201-Cartoonito/index.m3u8
+#EXTINF:-1 tvg-name="ZooMoo (1080p)" group-title="😃 少儿节目",ZooMoo (1080p)
+http://168.196.127.137:6001/play/a03k/index.m3u8
+#EXTINF:-1 tvg-name="CNA (1080p) [Geo-blocked]" group-title="📡地方频道",CNA (1080p) [Geo-blocked]
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:-1 tvg-name="CNA International (1080p)" group-title="📡地方频道",CNA International (1080p)
+https://freem3u.xyz/api/live/play.m3u8?vid=112
+#EXTINF:-1 tvg-name="CNA International (576p)" group-title="📡地方频道",CNA International (576p)
+https://mumt05.tangotv.in/87NeALx2CNA/index.m3u8
+#EXTINF:-1 tvg-name="CNA Originals (1080p)" group-title="📡地方频道",CNA Originals (1080p)
+https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="CNA Originals (1080p)" group-title="📡地方频道",CNA Originals (1080p)
+https://amg01082-cna-amg01082c1-vidaa-gb-7580.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="CNBC Asia HD (1080p)" group-title="📡地方频道",CNBC Asia HD (1080p)
+https://freem3u.xyz/api/live/play.m3u8?vid=9855
