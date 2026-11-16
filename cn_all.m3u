@@ -45,20 +45,12 @@ http://tvgslb.hn.chinamobile.com:8089/180000001001/32025091110262078079170451541
 http://173.208.234.146/live/fhzx.m3u8
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/凤凰香港.png" group-title="地方频道",凤凰香港
 http://173.208.234.146/live/fhxg.m3u8
-#EXTINF:-1 tvg-name="CNA (1080p) [Geo-blocked]" group-title="地方频道",CNA (1080p) [Geo-blocked]
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-#EXTINF:-1 tvg-name="CNA International (1080p)" group-title="地方频道",CNA International (1080p)
-https://freem3u.xyz/api/live/play.m3u8?vid=112
 #EXTINF:-1 tvg-name="CNA Originals (1080p)" group-title="地方频道",CNA Originals (1080p)
 https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="CNBC Asia HD (1080p)" group-title="地方频道",CNBC Asia HD (1080p)
-https://freem3u.xyz/api/live/play.m3u8?vid=9855
 #EXTINF:-1 group-title="地方频道", 翡翠台 [?|1.5MB/s]
 http://218.13.139.26:9901/tsfile/live/1079_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="地方频道", TVB Plus [1080p|625KB/s]
 https://10.fast.hidns.vip/163189/tvbp/
-#EXTINF:-1 tvg-name="BBC News North America (1080p)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png" group-title="地方频道",BBC News North America (1080p)
-http://23.237.104.106:8080/USA_BBC_NEWS/index.m3u8
 #EXTINF:-1 tvg-name="RTHK TV 31 (1080p) [Geo-blocked]" tvg-logo="https://i.imgur.com/kf818kM.png" group-title="地方频道",RTHK TV 31 (1080p) [Geo-blocked]
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 #EXTINF:-1 tvg-name="VoA TV China (1080p)" tvg-logo="https://i.imgur.com/XCTZkoq.png" group-title="地方频道",VoA TV China (1080p)
@@ -87,18 +79,12 @@ http://23.237.104.106:8080/USA_NBA/index.m3u8
 https://d11k1mnrgfposz.cloudfront.net/playlist.m3u8
 #EXTINF:-1 group-title="地方频道", 明珠台 [1080p|623KB/s]
 https://10.fast.hidns.vip/163189/mzt/
-#EXTINF:-1 tvg-name="CNN International (1080p)" group-title="地方频道",CNN International (1080p)
-https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8
-#EXTINF:-1 tvg-name="MTV (1080p)" group-title="地方频道",MTV (1080p)
-http://23.237.104.106:8080/USA_MTV/index.m3u8
 #EXTINF:-1 tvg-name="Classic Arts Showcase (720p)" group-title="科普纪实",Classic Arts Showcase (720p)
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
 #EXTINF:-1 tvg-name="Discovery World (1080p)" group-title="科普纪实",Discovery World (1080p)
 http://168.196.127.137:6001/play/a097/index.m3u8
 #EXTINF:-1 tvg-name="Tennis Channel (1080p)" group-title="体育户外",Tennis Channel (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
-#EXTINF:-1 tvg-name="News24 World" group-title="地方频道",News24 World
-https://skynewsau-live-premium.akamaized.net/hls/live/2105306/skynewsextra/live_540p.m3u8
 #EXTINF:-1 tvg-name="Cartoon Network Asia (720p)" group-title="少儿节目",Cartoon Network Asia (720p)
 https://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLSv3-FTA/Cartoon_Network.m3u8
 #EXTINF:-1 tvg-name="Cartoonito Asia (720p)" group-title="少儿节目",Cartoonito Asia (720p)
@@ -111,3 +97,7 @@ http://181.78.121.15:8000/play/a00a/index.m3u8
 http://38.87.224.19:2220/play/a03u/index.m3u8
 #EXTINF:-1 tvg-name="Discovery Family (720p)" group-title="少儿节目",Discovery Family (720p)
 https://tvsen5.aynaott.com/discoveryfamily/index.m3u8
+#EXTINF:-1 tvg-name="Documentary+ (1080p)" group-title="🌍纪录片",Documentary+ (1080p)
+https://ef79b15c8c7c46c7a9de9d33001dbd07.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-859-DOCUMENTARYPLUS-DOCUMENTARYPLUS/mt/documentaryplus/859/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="NBC News NOW (1080p)" group-title="📡地方频道",NBC News NOW (1080p)
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99984003
