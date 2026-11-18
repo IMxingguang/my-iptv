@@ -47,6 +47,10 @@ https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3
 https://10.fast.hidns.vip/163189/tvbp/
 #EXTINF:-1 tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/VOA%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3.png" tvg-name="VoA TV China (1080p)" group-title="地方频道",VoA TV China (1080p)
 https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E6%98%8E%E7%8F%A0%E5%8F%B0.png" group-title="地方频道", 明珠台 [1080p|623KB/s]
+https://10.fast.hidns.vip/163189/mzt/
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/7/epg/channels/logos/gracenote/713ea11a46bcb609bc91c386c29076e6.png" tvg-name="NBC News NOW (1080p)" group-title="地方频道",NBC News NOW (1080p)
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99984003
 #EXTINF:-1 tvg-name="Discovering China (1080p)" tvg-logo="https://i.imgur.com/wr2bLaA.png" group-title="科普纪实",Discovering China (1080p)
 https://fastlive.cctvplus.com/out/v1/8442c3bfd4c64a3984389328f6087879/index.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/cgtn%E7%BA%AA%E5%BD%95.png" tvg-name="CGTN纪录" group-title="科普纪实",CGTN纪录
@@ -57,6 +61,16 @@ https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEar
 https://mumbai-edge.smartplaytv.in/LoveNature/index.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/history.png" tvg-name="History Asia" group-title="科普纪实",History Asia
 https://freem3u.xyz/api/live/play.m3u8?vid=9856
+#EXTINF:-1 tvg-name="Classic Arts Showcase (720p)" group-title="科普纪实",Classic Arts Showcase (720p)
+https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
+#EXTINF:-1 tvg-name="Documentary+ (1080p)" group-title="科普纪实",Documentary+ (1080p)
+https://ef79b15c8c7c46c7a9de9d33001dbd07.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-859-DOCUMENTARYPLUS-DOCUMENTARYPLUS/mt/documentaryplus/859/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/Animal%20Planet.png" tvg-name="Animal Planet (720p)" group-title="科普纪实",Animal Planet (720p)
+http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
+#EXTINF:-1 tvg-name="History Hit (720p)" group-title="科普纪实",History Hit (720p)
+https://timeline-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="History Hit (1080p)" group-title="科普纪实",History Hit (1080p)
+https://lds-timeline-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/RedBull.png" tvg-id="RedBullTV" tvg-name="Red Bull TV" group-title="体育户外",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTINF:-1 tvg-id="ESPN.us@HD" tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" group-title="体育户外",ESPN (United States) HD (720p)
@@ -67,10 +81,6 @@ http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8
 http://23.237.104.106:8080/USA_NBA/index.m3u8
 #EXTINF:-1 tvg-id="PGATour.us@SD" tvg-logo="https://i.imgur.com/J0TY9dG.png" group-title="体育户外",PGA Tour (1080p)
 https://d11k1mnrgfposz.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E6%98%8E%E7%8F%A0%E5%8F%B0.png" group-title="地方频道", 明珠台 [1080p|623KB/s]
-https://10.fast.hidns.vip/163189/mzt/
-#EXTINF:-1 tvg-name="Classic Arts Showcase (720p)" group-title="科普纪实",Classic Arts Showcase (720p)
-https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/TENNISCHANNEL.png" tvg-name="Tennis Channel (1080p)" group-title="体育户外",Tennis Channel (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CartoonNetwork.png" tvg-name="Cartoon Network Asia (720p)" group-title="少儿节目",Cartoon Network Asia (720p)
@@ -83,13 +93,3 @@ http://181.78.121.15:8000/play/a00a/index.m3u8
 http://38.87.224.19:2220/play/a03u/index.m3u8
 #EXTINF:-1 tvg-name="Discovery Family (720p)" group-title="少儿节目",Discovery Family (720p)
 https://tvsen5.aynaott.com/discoveryfamily/index.m3u8
-#EXTINF:-1 tvg-name="Documentary+ (1080p)" group-title="科普纪实",Documentary+ (1080p)
-https://ef79b15c8c7c46c7a9de9d33001dbd07.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-859-DOCUMENTARYPLUS-DOCUMENTARYPLUS/mt/documentaryplus/859/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/7/epg/channels/logos/gracenote/713ea11a46bcb609bc91c386c29076e6.png" tvg-name="NBC News NOW (1080p)" group-title="地方频道",NBC News NOW (1080p)
-https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99984003
-#EXTINF:-1 tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/Animal%20Planet.png" tvg-name="Animal Planet (720p)" group-title="科普纪实",Animal Planet (720p)
-http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
-#EXTINF:-1 tvg-name="History Hit (720p)" group-title="科普纪实",History Hit (720p)
-https://timeline-samsung-uk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="History Hit (1080p)" group-title="科普纪实",History Hit (1080p)
-https://lds-timeline-plex.amagi.tv/playlist.m3u8
