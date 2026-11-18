@@ -41,18 +41,10 @@ http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182305/main.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%864K.png" tvg-id="HNMG-dongfangstv4k" tvg-name="东方卫视4K"  group-title="地方频道",东方卫视4K
 http://tvgslb.hn.chinamobile.com:8089/180000001001/32025091110262078079170451541005/main.m3u8
-#EXTINF:-1 tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF.png" tvg-name="凤凰资讯"  group-title="地方频道",凤凰资讯
-http://173.208.234.146/live/fhzx.m3u8
-#EXTINF:-1 tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E5%87%A4%E5%87%B0%E9%A6%99%E6%B8%AF.png" tvg-name="凤凰香港"  group-title="地方频道",凤凰香港
-http://173.208.234.146/live/fhxg.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CNA.png" tvg-name="CNA Originals (1080p)" group-title="地方频道",CNA Originals (1080p)
 https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="地方频道", 翡翠台 [?|1.5MB/s]
-http://218.13.139.26:9901/tsfile/live/1079_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/TVB%20Plus.png" group-title="地方频道", TVB Plus [1080p|625KB/s]
 https://10.fast.hidns.vip/163189/tvbp/
-#EXTINF:-1 tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/RTHK%2031.png" tvg-name="RTHK TV 31 (1080p) [Geo-blocked]" group-title="地方频道",RTHK TV 31 (1080p) [Geo-blocked]
-https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/VOA%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3.png" tvg-name="VoA TV China (1080p)" group-title="地方频道",VoA TV China (1080p)
 https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
 #EXTINF:-1 tvg-name="Discovering China (1080p)" tvg-logo="https://i.imgur.com/wr2bLaA.png" group-title="科普纪实",Discovering China (1080p)
@@ -65,8 +57,6 @@ https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEar
 https://mumbai-edge.smartplaytv.in/LoveNature/index.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/history.png" tvg-name="History Asia" group-title="科普纪实",History Asia
 https://freem3u.xyz/api/live/play.m3u8?vid=9856
-#EXTINF:-1 tvg-logo="https://cdn.uc.assets.prezly.com/92770c71-9d6f-400f-8311-38e9cfec52c2/InWild_landscape-green.png" tvg-name="INWILD" group-title="科普纪实",INWILD
-https://amg00861-terninternation-inwild-samsunguk-w5wic.amagi.tv/playlist/amg00861-terninternation-inwild-samsunguk/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/RedBull.png" tvg-id="RedBullTV" tvg-name="Red Bull TV" group-title="体育户外",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTINF:-1 tvg-id="ESPN.us@HD" tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" group-title="体育户外",ESPN (United States) HD (720p)
@@ -81,16 +71,12 @@ https://d11k1mnrgfposz.cloudfront.net/playlist.m3u8
 https://10.fast.hidns.vip/163189/mzt/
 #EXTINF:-1 tvg-name="Classic Arts Showcase (720p)" group-title="科普纪实",Classic Arts Showcase (720p)
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
-#EXTINF:-1 tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/discovery.png" tvg-name="Discovery World (1080p)" group-title="科普纪实",Discovery World (1080p)
-http://168.196.127.137:6001/play/a097/index.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/TENNISCHANNEL.png" tvg-name="Tennis Channel (1080p)" group-title="体育户外",Tennis Channel (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CartoonNetwork.png" tvg-name="Cartoon Network Asia (720p)" group-title="少儿节目",Cartoon Network Asia (720p)
 https://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLSv3-FTA/Cartoon_Network.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/Cartoonito.png" tvg-name="Cartoonito Asia (720p)" group-title="少儿节目",Cartoonito Asia (720p)
 http://cdn4.skygo.mn/live/disk1/Boomerang/HLSv3-FTA/Boomerang.m3u8
-#EXTINF:-1 tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/ZooMoo.png" tvg-name="ZooMoo (1080p)" group-title="少儿节目",ZooMoo (1080p)
-http://168.196.127.137:6001/play/a03k/index.m3u8
 #EXTINF:-1 tvg-name="Kids Street (1080p)" group-title="少儿节目",Kids Street (1080p)
 http://181.78.121.15:8000/play/a00a/index.m3u8
 #EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/12/31/22/1735657792230/b870c45f862d_480_270.png" tvg-name="FMH Kids (720p)" group-title="少儿节目",FMH Kids (720p)
