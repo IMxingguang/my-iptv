@@ -347,3 +347,11 @@ http://tvgslb.hn.chinamobile.com:8089/180000001001/32025061216045554851550640574
 http://tvgslb.hn.chinamobile.com:8089/180000001001/32025091110262122088149630612658/main.m3u8
 #EXTINF:-1 tvg-id="HNMG-sichuanstv4k" tvg-name="四川卫视4K" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="卫视",四川卫视4K
 http://tvgslb.hn.chinamobile.com:8089/180000001001/32025091110262063636605981698869/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-HDmiguaoyun2" tvg-name="睛彩竞技高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/picture/ncos/undefined/2024/07/22/988cfc9f438947099b745b1971443a88.png" group-title="湖南本地/其他",睛彩竞技高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32026101018111555400855986165639/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-HDmiguaoyun1" tvg-name="睛彩篮球高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/picture/ncos/undefined/2024/07/22/3de5d2219fcf4196beef0f9b383702a8.png" group-title="湖南本地/其他",睛彩篮球高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32026101018111668658815457769670/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-HDquanminrl" tvg-name="睛彩青少高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/picture/ncos/undefined/2024/07/22/bd36ba6707674d29968e12f23a909512.png" group-title="湖南本地/其他",睛彩青少高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32026101018111656963850583145855/main.m3u8
+#EXTINF:-1 tvg-id="HNMG-HDjcgcw" tvg-name="睛彩广场舞高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/picture/ndms/dev/2026/11/18/9f2a58dff5c5475bb4989e9be5721044.png" group-title="湖南本地/其他",睛彩广场舞高清
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32026101018111537135226432583276/main.m3u8
