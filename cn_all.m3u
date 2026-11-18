@@ -65,7 +65,7 @@ https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEar
 https://mumbai-edge.smartplaytv.in/LoveNature/index.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/history.png" tvg-name="History Asia" group-title="科普纪实",History Asia
 https://freem3u.xyz/api/live/play.m3u8?vid=9856
-#EXTINF:-1 tvg-name="INWILD" group-title="科普纪实",INWILD
+#EXTINF:-1 tvg-logo="https://cdn.uc.assets.prezly.com/92770c71-9d6f-400f-8311-38e9cfec52c2/InWild_landscape-green.png" tvg-name="INWILD" group-title="科普纪实",INWILD
 https://amg00861-terninternation-inwild-samsunguk-w5wic.amagi.tv/playlist/amg00861-terninternation-inwild-samsunguk/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/RedBull.png" tvg-id="RedBullTV" tvg-name="Red Bull TV" group-title="体育户外",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
@@ -93,7 +93,7 @@ http://cdn4.skygo.mn/live/disk1/Boomerang/HLSv3-FTA/Boomerang.m3u8
 http://168.196.127.137:6001/play/a03k/index.m3u8
 #EXTINF:-1 tvg-name="Kids Street (1080p)" group-title="少儿节目",Kids Street (1080p)
 http://181.78.121.15:8000/play/a00a/index.m3u8
-#EXTINF:-1 tvg-name="FMH Kids (720p)" group-title="少儿节目",FMH Kids (720p)
+#EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/12/31/22/1735657792230/b870c45f862d_480_270.png" tvg-name="FMH Kids (720p)" group-title="少儿节目",FMH Kids (720p)
 http://38.87.224.19:2220/play/a03u/index.m3u8
 #EXTINF:-1 tvg-name="Discovery Family (720p)" group-title="少儿节目",Discovery Family (720p)
 https://tvsen5.aynaott.com/discoveryfamily/index.m3u8
