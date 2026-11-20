@@ -9,12 +9,8 @@ http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047433/main.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/cctv5.png" tvg-id="HNMG-HDcctv5" tvg-name="CCTV5高清"  group-title="央视频道",CCTV5高清
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047434/main.m3u8
-#EXTINF:-1 tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/cctv6.png" tvg-id="HNMG-HDcctv6" tvg-name="CCTV6高清"  group-title="央视频道",CCTV6高清
-http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047435/main.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/cctv7.png" tvg-id="HNMG-HDcctv7" tvg-name="CCTV7高清"  group-title="央视频道",CCTV7高清
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047436/main.m3u8
-#EXTINF:-1 tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/cctv8.png" tvg-id="HNMG-HDcctv8" tvg-name="CCTV8高清"  group-title="央视频道",CCTV8高清
-http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047437/main.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/cctv9.png" tvg-id="HNMG-HDcctv9" tvg-name="CCTV9高清"  group-title="央视频道",CCTV9高清
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047438/main.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/cctv10.png" tvg-id="HNMG-HDcctv10" tvg-name="CCTV10高清"  group-title="央视频道",CCTV10高清
@@ -29,10 +25,6 @@ http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000050000000133
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047441/main.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/cctv15.png" tvg-id="HNMG-HDcctv15" tvg-name="CCTV15高清"  group-title="央视频道",CCTV15高清
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000026000000446967/main.m3u8
-#EXTINF:-1 tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/cctv16.png" tvg-id="HNMG-HDcctv16" tvg-name="CCTV16高清"  group-title="央视频道",CCTV16高清
-http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000079000000434986/main.m3u8
-#EXTINF:-1 tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/cctv17.png" tvg-id="HNMG-HDcctv17" tvg-name="CCTV17高清"  group-title="央视频道",CCTV17高清
-http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000025000000024152/main.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/cctv5%2B.png" tvg-id="HNMG-cctv05plus" tvg-name="CCTV5+高清"  group-title="央视频道",CCTV5+高清
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047442/main.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/cgtn.png" tvg-id="HNMG-CGTN" tvg-name="CGTN"  group-title="央视频道",CGTN
@@ -83,12 +75,6 @@ http://23.237.104.106:8080/USA_NBA/index.m3u8
 https://d11k1mnrgfposz.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/TENNISCHANNEL.png" tvg-name="Tennis Channel (1080p)" group-title="体育户外",Tennis Channel (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CartoonNetwork.png" tvg-name="Cartoon Network Asia (720p)" group-title="少儿节目",Cartoon Network Asia (720p)
-https://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLSv3-FTA/Cartoon_Network.m3u8
-#EXTINF:-1 tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/Cartoonito.png" tvg-name="Cartoonito Asia (720p)" group-title="少儿节目",Cartoonito Asia (720p)
-http://cdn4.skygo.mn/live/disk1/Boomerang/HLSv3-FTA/Boomerang.m3u8
-#EXTINF:-1 tvg-name="Kids Street (1080p)" group-title="少儿节目",Kids Street (1080p)
-http://181.78.121.15:8000/play/a00a/index.m3u8
 #EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/12/31/22/1735657792230/b870c45f862d_480_270.png" tvg-name="FMH Kids (720p)" group-title="少儿节目",FMH Kids (720p)
 http://38.87.224.19:2220/play/a03u/index.m3u8
 #EXTINF:-1 tvg-name="Discovery Family (720p)" group-title="少儿节目",Discovery Family (720p)
