@@ -59,8 +59,6 @@ https://cdn.pishow.tv/ott/live/455/master.m3u8
 https://ef79b15c8c7c46c7a9de9d33001dbd07.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-859-DOCUMENTARYPLUS-DOCUMENTARYPLUS/mt/documentaryplus/859/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-name="History Hit (720p)" group-title="科普纪实",History Hit (720p)
 https://timeline-samsung-uk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="History Hit (1080p)" group-title="科普纪实",History Hit (1080p)
-https://lds-timeline-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Classic Arts Showcase (720p)" group-title="科普纪实",Classic Arts Showcase (720p)
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/RedBull.png" tvg-id="RedBullTV" tvg-name="Red Bull TV" group-title="体育户外",Red Bull TV
