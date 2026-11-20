@@ -37,9 +37,9 @@ http://tvgslb.hn.chinamobile.com:8089/180000001001/32025091110262078079170451541
 https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
 #EXTINF:-1 tvg-name="CNA International (1080p)" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CNA.png" group-title="地方频道",CNA International (1080p)
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-#EXTINF:-1 tvg-id="CNNInternational.us@NorthAmerica" tvg-name="CNN International (1080p)" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/CNN-International-Logo.svg/960px-CNN-International-Logo.svg.png" group-title="地方频道",CNN International (1080p)
+#EXTINF:-1 tvg-id="CNNInternational.us@NorthAmerica" tvg-name="CNN International (1080p)" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CNN.png" group-title="地方频道",CNN International (1080p)
 https://d2sybdl23b9psq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bocx3i7bjz0dg/CNNFAST_GB.m3u8
-#EXTINF:-1 tvg-id="NBCNewsNOW.us@SD" tvg-name="NBC News NOW (1080p)" tvg-logo="https://i.imgur.com/JZt2qh5.png" group-title="地方频道",NBC News NOW (1080p)
+#EXTINF:-1 tvg-id="NBCNewsNOW.us@SD" tvg-name="NBC News NOW (1080p)" tvg-logo="https://provider-static.plex.tv/7/epg/channels/logos/gracenote/713ea11a46bcb609bc91c386c29076e6.png" group-title="地方频道",NBC News NOW (1080p)
 https://d1si3n1st4nkgb.cloudfront.net/10502/88896001/hls/master.m3u8?ads.xumo_channelId=88896001
 #EXTINF:-1 tvg-name="Discovering China (1080p)" tvg-logo="https://i.imgur.com/wr2bLaA.png" group-title="科普纪实",Discovering China (1080p)
 https://fastlive.cctvplus.com/out/v1/8442c3bfd4c64a3984389328f6087879/index.m3u8
@@ -67,7 +67,7 @@ https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTINF:-1 tvg-id="ESPN.us@HD" tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" group-title="体育户外",ESPN (United States) HD (720p)
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
-#EXTINF:-1 tvg-id="ESPNU.us@HD" tvg-logo="https://i.imgur.com/HiBrysh.png" group-title="体育户外",ESPNU HD (720p)
+#EXTINF:-1 tvg-id="ESPNU.us@HD" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/ESPNU.png" group-title="体育户外",ESPNU HD (720p)
 http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/NBA.png" tvg-id="NBATV.us@SD" group-title="体育户外",NBA TV (720p)
 http://23.237.104.106:8080/USA_NBA/index.m3u8
