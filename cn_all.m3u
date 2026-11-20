@@ -49,10 +49,6 @@ https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/Love%20Nature.png" tvg-name="Love Nature HD (1080p)" group-title="科普纪实",Love Nature HD (1080p)
 https://mumbai-edge.smartplaytv.in/LoveNature/index.m3u8
-#EXTINF:-1 tvg-id="SmithsonianChannelSelects.us@SD" tvg-name="Smithsonian Channel Selects (1080p)" tvg-logo="https://i.imgur.com/Kt5j8Vr.png" group-title="科普纪实",Smithsonian Channel Selects (1080p)
-https://jmp2.uk/plu-5f21ea08007a49000762d349.m3u8
-#EXTINF:-1 tvg-id="PlutoTVHistory.us@US" tvg-name="Pluto TV History" tvg-logo="https://i.imgur.com/XkQD5kM.png" group-title="科普纪实",Pluto TV History
-https://jmp2.uk/plu-5a4d35dfa5c02e717a234f86.m3u8
 #EXTINF:-1 tvg-id="DiscoveryScience.in@SD" tvg-name="Discovery Science (576p)" tvg-logo="https://dtil.tmsimg.com/assets/s159107_ld_h15_aa.png?lock=720x540" group-title="科普纪实",Discovery Science (576p)
 http://116.90.120.149:8000/play/a11b/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.in@HD" tvg-name="National Geographic India HD (1080p)" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/natgeo.png" group-title="科普纪实",National Geographic India HD (1080p)
@@ -61,8 +57,6 @@ http://116.90.120.149:8000/play/a115/index.m3u8
 https://cdn.pishow.tv/ott/live/455/master.m3u8
 #EXTINF:-1 tvg-name="Documentary+ (1080p)" group-title="科普纪实",Documentary+ (1080p)
 https://ef79b15c8c7c46c7a9de9d33001dbd07.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-859-DOCUMENTARYPLUS-DOCUMENTARYPLUS/mt/documentaryplus/859/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/Animal%20Planet.png" tvg-name="Animal Planet (720p)" group-title="科普纪实",Animal Planet (720p)
-http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
 #EXTINF:-1 tvg-name="History Hit (720p)" group-title="科普纪实",History Hit (720p)
 https://timeline-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="History Hit (1080p)" group-title="科普纪实",History Hit (1080p)
