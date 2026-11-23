@@ -55,7 +55,7 @@ https://mumbai-edge.smartplaytv.in/LoveNature/index.m3u8
 https://cdn.pishow.tv/ott/live/455/master.m3u8
 #EXTINF:-1 tvg-name="Documentary+ (1080p)" group-title="科普纪实",Documentary+ (1080p)
 https://ef79b15c8c7c46c7a9de9d33001dbd07.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-859-DOCUMENTARYPLUS-DOCUMENTARYPLUS/mt/documentaryplus/859/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-name="History Hit (720p)" group-title="科普纪实",History Hit (720p)
+#EXTINF:-1 tvg-logo="https://www.advanced-television.com/wp-content/uploads/2022/07/HistoryHit-300x195.png" tvg-name="History Hit (720p)" group-title="科普纪实",History Hit (720p)
 https://timeline-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Classic Arts Showcase (720p)" group-title="科普纪实",Classic Arts Showcase (720p)
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
