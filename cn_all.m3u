@@ -47,7 +47,7 @@ https://fastlive.cctvplus.com/out/v1/8442c3bfd4c64a3984389328f6087879/index.m3u8
 https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/BBC%20earth.png" tvg-name="BBC Earth US (1080p)" group-title="科普纪实",BBC Earth US (1080p)
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
-#EXTINF:-1 tvg-id="NatureTime.ca" tvg-name="NatureTime AU (1080p)" group-title="科普纪实",NatureTime AU (1080p)
+#EXTINF:-1 tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/Love%20Nature.png" tvg-id="NatureTime.ca" tvg-name="NatureTime AU (1080p)" group-title="科普纪实",NatureTime AU (1080p)
 https://amg00090-blueantllc-lovenature-au-samsungau-wggcn.amagi.tv/playlist/amg00090-blueantllc-lovenature-au-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/Love%20Nature.png" tvg-name="Love Nature HD (1080p)" group-title="科普纪实",Love Nature HD (1080p)
 https://mumbai-edge.smartplaytv.in/LoveNature/index.m3u8
@@ -73,5 +73,5 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlint
 https://aegis-cloudfront-1.tubi.video/ba23a03c-22ff-4a48-ae7e-dd8bf4ee4e29/kc_co.m3u8
 #EXTINF:-1 tvg-name="ToonGoggles (720p)" group-title="少儿节目",ToonGoggles (720p)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=37
-#EXTINF:-1 tvg-name="ZooMoo (1080p)" group-title="少儿节目",ZooMoo (1080p)
+#EXTINF:-1 tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/ZooMoo.png" tvg-name="ZooMoo (1080p)" group-title="少儿节目",ZooMoo (1080p)
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
