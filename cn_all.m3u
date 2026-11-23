@@ -53,11 +53,11 @@ https://amg00090-blueantllc-lovenature-au-samsungau-wggcn.amagi.tv/playlist/amg0
 https://mumbai-edge.smartplaytv.in/LoveNature/index.m3u8
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp@SD" tvg-name="NHK World-Japan (1080p)" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NHK_World_Japan.png" group-title="科普纪实",NHK World-Japan (1080p)
 https://cdn.pishow.tv/ott/live/455/master.m3u8
-#EXTINF:-1 tvg-name="Documentary+ (1080p)" group-title="科普纪实",Documentary+ (1080p)
+#EXTINF:-1 tvg-logo="https://gizmeon.mdc.akamaized.net/PUB-50158/config/1762855496775.png" tvg-name="Documentary+ (1080p)" group-title="科普纪实",Documentary+ (1080p)
 https://ef79b15c8c7c46c7a9de9d33001dbd07.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-859-DOCUMENTARYPLUS-DOCUMENTARYPLUS/mt/documentaryplus/859/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.advanced-television.com/wp-content/uploads/2022/07/HistoryHit-300x195.png" tvg-name="History Hit (720p)" group-title="科普纪实",History Hit (720p)
 https://timeline-samsung-uk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Classic Arts Showcase (720p)" group-title="科普纪实",Classic Arts Showcase (720p)
+#EXTINF:-1 tvg-logo="https://sisterlakescable.net/wp-content/uploads/2017/03/arts.png" tvg-name="Classic Arts Showcase (720p)" group-title="科普纪实",Classic Arts Showcase (720p)
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/RedBull.png" tvg-id="RedBullTV" tvg-name="Red Bull TV" group-title="体育户外",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
@@ -69,9 +69,9 @@ http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8
 https://d11k1mnrgfposz.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/TENNISCHANNEL.png" tvg-name="Tennis Channel (1080p)" group-title="体育户外",Tennis Channel (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
-#EXTINF:-1 tvg-name="Kartoon Channel! (720p)" group-title="少儿节目",Kartoon Channel! (720p)
+#EXTINF:-1 tvg-logo="https://www.kartoonchannel.com/themes/custom/gnb/kartoon_channel/logo.png" tvg-name="Kartoon Channel! (720p)" group-title="少儿节目",Kartoon Channel! (720p)
 https://aegis-cloudfront-1.tubi.video/ba23a03c-22ff-4a48-ae7e-dd8bf4ee4e29/kc_co.m3u8
-#EXTINF:-1 tvg-name="ToonGoggles (720p)" group-title="少儿节目",ToonGoggles (720p)
+#EXTINF:-1 tvg-logo="https://www.animationmagazine.net/wordpress/wp-content/uploads/toongogg150.jpg" tvg-name="ToonGoggles (720p)" group-title="少儿节目",ToonGoggles (720p)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=37
 #EXTINF:-1 tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/ZooMoo.png" tvg-name="ZooMoo (1080p)" group-title="少儿节目",ZooMoo (1080p)
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
